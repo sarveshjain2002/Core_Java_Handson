@@ -1,0 +1,15 @@
+//Program Structure of Java
+
+package package_name
+import java.package;
+class class_name
+{
+Constructors functions
+userdefined functions
+Data Members
+}
+
+public static void main(String args[])
+{
+Block of statement
+}//Comments
